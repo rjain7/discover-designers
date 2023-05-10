@@ -61,7 +61,7 @@ So we propose to use the Atomic theme builder to provide a need base experience 
 | [Use Case Story](./hackproject/usecase.md) | Supporting material for judges. | 
 | [Visual Collaboration Board URL]() |[Mural link](https://app.mural.co/t/discoverdesigners2109/m/discoverdesigners2109/1682680007422/91c0df4f5222daad4d98a1b535f133d821e07854?invited=true&sender=u417f3117492ffe677cc63836) | 
 | [Visual Collaboration Board Artifacts](./hackproject/media/board) | [Mural link.](https://app.mural.co/t/discoverdesigners2109/m/discoverdesigners2109/1682680007422/91c0df4f5222daad4d98a1b535f133d821e07854?invited=true&sender=u417f3117492ffe677cc63836) | 
-| [Design Thinking Playback Brief](./presentations/playback-brief.ppt)| Supporting development material for team. | 
+| [Design Thinking Playback Brief](challenges/common/presentations/playback-breif.pptx)| challenges/common/presentations/playback-breif.pptx | 
 | [Concept Playback - Pitch Video](./media/videos/pitch-video.mp4)|  Required for judging. | 
 | [Concept Show-n-Tell Video](./media/videos/demo-video.mp4) | Optional or Required for judging depending on track. | 
 | [Solution Code](./hackproject/README.md) | | Supporting material for judging depending on track.   | 
